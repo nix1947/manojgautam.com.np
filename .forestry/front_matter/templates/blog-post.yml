@@ -1,0 +1,28 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: text
+  name: title
+  label: title
+- type: text
+  name: template
+  label: template
+- name: thumbnail
+  type: text
+  config:
+    required: false
+  label: thumbnail
+- type: text
+  name: slug
+  label: slug
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
