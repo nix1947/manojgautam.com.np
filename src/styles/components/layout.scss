@@ -804,8 +804,9 @@ blockquote {
 }
 
 .footer {
-  height: 55px;
   color: $light-font-color;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 @include small-breakpoint {
@@ -814,6 +815,8 @@ blockquote {
     align-items: center;
     height: 100px;
     color: initial;
+    margin-top: 0%;
+    margin-bottom: 0%;
 
     strong {
       color: #111;
