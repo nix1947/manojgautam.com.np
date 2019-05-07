@@ -1,6 +1,9 @@
 # razaqultegar.web.id [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Personal website running on Gatsby, React, and Node.js.
+Personal website running on Gatsby, React, and Node.js. 
+Beautiful theme from [Tania Rascia](https://github.com/taniarascia/taniarascia.com).
+
+- [Migrating From WordPress to Gatsby](https://www.razaqultegar.web.id/migrasi-dari-wordpress-ke-gatsby/)
 
 ## Installation
 
@@ -21,8 +24,8 @@ Navigate to `localhost:8000`.
 - Tags and categories
 - Night mode
 - DOS mode (404)
-- Code theme
-- Sass
+- Code theme (starring [New Moon](https://taniarascia.github.io/new-moon))
+- Sass (starring [Primitive](https://taniarascia.github.io/primitive))
 
 ## Contributing
 
