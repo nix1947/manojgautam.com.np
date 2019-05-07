@@ -1,4 +1,4 @@
-# razaqultegar.web.id [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# razaqultegar.web.id [![Netlify Status](https://api.netlify.com/api/v1/badges/99339a17-d5fc-45c3-bff9-5861351a68a9/deploy-status)](https://app.netlify.com/sites/razaqultegar/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Personal website running on Gatsby, React, and Node.js. 
 Beautiful theme from [Tania Rascia](https://github.com/taniarascia/taniarascia.com).
