@@ -3,10 +3,8 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../layout'
 import PostListing from '../components/PostListing'
-import ProjectListing from '../components/ProjectListing'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
-import projects from '../../data/projects'
 
 export default class Index extends Component {
   render() {
