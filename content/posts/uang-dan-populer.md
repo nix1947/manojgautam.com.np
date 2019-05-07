@@ -2,7 +2,7 @@
 date: 2019-01-01
 title: 'Uang dan Populer'
 template: post
-thumbnail: '../thumbnails/writing.png'
+thumbnail: '../uploads/writing.png'
 slug: uang-dan-populer
 categories:
   - Personal

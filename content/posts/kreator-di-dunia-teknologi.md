@@ -2,7 +2,7 @@
 date: 2019-02-26
 title: 'Kreator di Dunia Teknologi'
 template: post
-thumbnail: '../thumbnails/writing.png'
+thumbnail: '../uploads/writing.png'
 slug: kreator-di-dunia-teknologi
 categories:
   - Personal

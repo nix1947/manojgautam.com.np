@@ -2,7 +2,7 @@
 date: 2019-01-21
 title: 'Saya Berbeda di Dunia Maya'
 template: post
-thumbnail: '../thumbnails/writing.png'
+thumbnail: '../uploads/writing.png'
 slug: saya-berbeda-di-dunia-maya
 categories:
   - Personal

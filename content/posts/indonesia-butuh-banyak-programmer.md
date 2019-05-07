@@ -2,7 +2,7 @@
 date: 2018-12-20
 title: 'Indonesia Butuh Banyak Programmer'
 template: post
-thumbnail: '../thumbnails/writing.png'
+thumbnail: '../uploads/writing.png'
 slug: indonesia-butuh-banyak-programmer
 categories:
   - Personal

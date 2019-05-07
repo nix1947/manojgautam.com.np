@@ -2,7 +2,7 @@
 date: 2019-03-04
 title: 'Menulis untuk Menulis'
 template: post
-thumbnail: '../thumbnails/writing.png'
+thumbnail: '../uploads/writing.png'
 slug: menulis-untuk-menulis
 categories:
   - Personal

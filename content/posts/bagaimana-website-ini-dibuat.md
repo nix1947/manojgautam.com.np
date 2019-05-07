@@ -2,7 +2,7 @@
 date: 2019-05-08T03:46:07+07:00
 title: Bagaimana Website ini dibuat
 template: post
-thumbnail: "../thumbnails/gatsby.png"
+thumbnail: "../uploads/gatsby.png"
 slug: bagaimana-website-ini-dibuat
 categories:
 - Programming
