@@ -26,3 +26,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/posts/bagaimana-website-ini-dibuat.md
