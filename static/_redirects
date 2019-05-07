@@ -1,9 +1,9 @@
 # Redirects from what the browser requests to what we serve
 # https://www.netlify.com/docs/redirects/
 /artikel/                /blog/
-/kategori/               /blog/
+/kategori/               /categories/
 /portfolio/              /blog/
-/kontak/                 /blog/
-/wp-admin/               /
-/admin/                  /
-/search/                 /
+/kontak/                 /tentang/
+/wp-admin/               /404/
+/admin/                  /404/
+/search/                 /blog/
