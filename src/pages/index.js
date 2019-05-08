@@ -18,8 +18,8 @@ export default class Index extends Component {
             <h1>
               Halo, saya Razaqul Tegar
             </h1>
-            <p>Saya adalah pengembang dari <a href="https://www.panda.id" target="_blank">Panda SID</a>, Full Stack Developer & CTO di <a href="https://www.puskomedia.id" target="_blank">Puskomedia Indonesia</a>, perokok aktif, kutu buku musiman, dan erap berkegiatan alam terbuka dan sesekali menangkap gerak dengan kamera ponselnya.</p>
-            <p>Anda dapat menemukan saya di <a href="https://twitter.com/razaqultegar" target="_blank">Twitter</a> atau <a href="mailto:myrazaqul@gmail.com">menulis email</a>. (Saya tidak memiliki akun di Facebook, LinkedIn, atau Instagram).</p>
+            <p>Saya adalah pengembang dari <a href="https://www.panda.id" target="_blank">Panda SID</a>, Full Stack Developer & CTO di <a href="https://www.puskomedia.id" target="_blank">Puskomedia Indonesia</a>, perokok aktif, kutu buku musiman, dan kerap berkegiatan di alam terbuka dan sesekali menangkap gerak dengan kamera ponselnya.</p>
+            <p>Anda dapat menemukan saya di <a href="https://twitter.com/razaqultegar" target="_blank">Twitter</a> atau <a href="mailto:myrazaqul@gmail.com">mengirimkan email</a>. (Saya tidak memiliki akun di Facebook, LinkedIn, atau Instagram).</p>
           </div>
         </div>
 
