@@ -43,15 +43,16 @@ export default class PostTemplate extends Component {
               <h1>{post.title}</h1>
               <div className="post-meta">
                 <time className="date">{date}</time>
-                /
-                <a className="github-link" href={githubLink} target="_blank">
-                  Sunting Lewat Github ✏️
-                </a>
               </div>
               <PostTags tags={post.tags} />
             </div>
           </header>
           <div className="post" dangerouslySetInnerHTML={{ __html: postNode.html }} />
+          <div>
+            <a className="github-link" href={githubLink} target="_blank">
+            Sunting Lewat Github ✏️
+            </a>
+          </div>
         </article>
       </Layout>
     )
