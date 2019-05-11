@@ -37,7 +37,7 @@ export default class Index extends Component {
 export const pageQuery = graphql`
   query IndexQuery {
     latest: allMarkdownRemark(
-      limit: 6
+      limit: 10
       sort: { fields: [fields___date], order: DESC }
       filter: { frontmatter: { template: { eq: "post" } } }
     ) {
