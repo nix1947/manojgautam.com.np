@@ -2,7 +2,7 @@
 date: 2019-03-29
 title: 'Cinta dan Indomie'
 template: post
-thumbnail: '../uploads/writing.png'
+thumbnail: '../uploads/love.png'
 slug: cinta-dan-indomie
 categories:
   - Personal
