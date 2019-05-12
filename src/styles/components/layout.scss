@@ -279,7 +279,7 @@
           &:active,
           &:focus {
             border: 2px dashed $primary-color;
-            background: $primary-hover;
+            background: transparent;
           }
 
           h2 {
