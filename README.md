@@ -3,7 +3,7 @@
 Personal website running on Gatsby, React, and Node.js. 
 Beautiful theme from [Tania Rascia](https://github.com/taniarascia/taniarascia.com).
 
-- [Migrating From WordPress to Gatsby](https://www.razaqultegar.web.id/bagaimana-website-ini-dibuat/)
+- [How this website was building](https://www.razaqultegar.web.id/bagaimana-website-ini-dibuat/)
 
 ## Installation
 
