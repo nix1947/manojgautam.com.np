@@ -1,19 +1,19 @@
 ---
 date: 2019-03-29
-title: 'Cinta dan Indomie'
+title: Cinta dan Indomie
 template: post
-thumbnail: '../uploads/love.png'
+thumbnail: "../uploads/love.png"
 slug: cinta-dan-indomie
 categories:
-  - Personal
+- Personal
 tags:
-  - cinta
-  - indomie
----
+- cinta
+- indomie
 
+---
 Saya menulis post ini dalam keadaan normal, tidak sedang terserang cinta, justru dalam keadaan normal seperti ini saya memilih menulis, bisa lebih jernih, semoga ada yang bisa diambil jadi pelajaran, khususnya saya sendiri, menjadi catatan pribadi sebagai pengingat.
 
-Terlalu luas definisi cinta, kita sempitkan dulu scope yang ingin dibahas disini, yaitu cinta ke lawan jenis dan lebih spesifik lagi untuk membangun keluarga alias menikah. Saat menulis post ini saya masih berstatus jones (jomblo ngenes - kata anak sekarang), meskipun cuma kata yang pertama yang benar :P . Jatuh cinta memang indah rasanya, kalo indomie ya rasa original, alami, bukan dibuat-buat seperti chitato rasa indomie. Yang menarik, apakah mie nya bisa kita nikmati tanpa menurunkan nilai matematika di sekolah (efek MSG), maaf, maksudnya tanpa menurunkan nilai-nilai kehidupan yang sudah kita pelajari dari sejak kecil.
+Terlalu luas definisi cinta, kita sempitkan dulu scope yang ingin dibahas disini, yaitu cinta ke lawan jenis dan lebih spesifik lagi untuk membangun keluarga alias menikah. Saat menulis post ini saya masih berstatus jones (jomblo ngenes - kata anak sekarang), meskipun cuma kata yang pertama yang benar 😋. Jatuh cinta memang indah rasanya, kalo indomie ya rasa original, alami, bukan dibuat-buat seperti chitato rasa indomie. Yang menarik, apakah mie nya bisa kita nikmati tanpa menurunkan nilai matematika di sekolah (efek MSG), maaf, maksudnya tanpa menurunkan nilai-nilai kehidupan yang sudah kita pelajari dari sejak kecil.
 
 Banyak yang meremehkan masalah menikah, bukan dengan kata-kata tapi dengan persiapan. Sedikit sekali bekalnya, padahal faktanya, menikah harus dipersiapkan jauh sebelum hari H nya, bukan persiapan fisik seperti uang atau undangan, tapi ilmu ilmu. (Sekali lagi, ini catatan Jones selama belajar, bukan pengalaman, boleh kalau tidak percaya/setuju). Belajar sekarang bukan berarti akan menikah besok, atau baru akan menikah 5 tahun kemudian, sama seperti meninggal, jodoh rahasia Tuhan, kita tidak tahu kapan jadinya, maka sikap terbaik adalah belajar mulai sekarang.
 
