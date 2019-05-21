@@ -2,17 +2,17 @@
 title: Tool
 slug: tool
 template: page
----
 
+---
 Seperti biasa, ini tool pilihan saya, kamu tidak harus pakai tool yang sama, ditulis karena sering ditanyakan atau saya ingin membantu mempromosikan sebagai terima kasih karena toolnya sudah membantu saya. Karena saya menggunakan Mac, ada banyak tool yang khusus untuk mac (duh).
 
 ### **Personal**
 
 Text Editor  
-Normalnya  [Atom](http://atom.io/)  , kadang  [Visual Studio Code](https://code.visualstudio.com/), sangat jarang  [Sublime](https://www.sublimetext.com/3)
+Normalnya [Atom](http://atom.io/), kadang [Visual Studio Code](https://code.visualstudio.com/), sangat jarang [Sublime](https://www.sublimetext.com/3)
 
-[Bear](https://bear.app/)  (Iphone, Ipad, Mac)  
-Tempat saya menulis, saya menulis saaaangat banyaaaak, semua ide kasar ditampung disini. Saya suka Bear, karena mengorganisir file mudah dengan hashtag, tempat menulis bersih dari yang tidak penting. Bear Pro (15$/tahun)
+[Simplenote](https://simplenote.com/)  
+Tempat saya menulis, saya menulis saaaangat banyaaaak, semua ide kasar ditampung disini. Saya suka Simplenote, karena mengorganisir file mudah dengan hashtag, tempat menulis bersih dari yang tidak penting.
 
 [Trello](http://trello.com/)  
 Untuk “tugas” yang harus saya kerjakan, saya organisir di trello. Terutama untuk hal-hal yang berhubungan dengan lebih dari satu orang (pekerjaan atau komunitas).
@@ -22,9 +22,6 @@ Tidak penting saya sebutkan mereknya, tapi saya sangat menyarankan bekerja denga
 
 Kertas dan Pulpen  
 yap, harus selalu, setiap punya ide sebelum menuangkan ke laptop, mau menggambar, menulis atau membuat aplikasi, saya akan menuangkan ke kertas.
-
-RSS Feed  
-Saya suka baca blog orang, tapi takut gangguan yang banyak di internet, karena itu saya mulai cari aplikasi RSS jadi bisa pilih blog mana yang mau kita subscribe tanpa perlu buka URL nya lagi. Sementara pake  [Feedy dari krillapps](https://krillapps.com/feedy/)
 
 ### Extension di chrome
 
@@ -36,8 +33,8 @@ Mendengarkan suara hujan, angin, air atau suara alam lainnya dengan konstan bisa
 
 ### **Extra**
 
-[Sequel Pro](https://www.sequelpro.com/)  
-Urusan database localhost ataupun live saya memakai SequelPro
+Database Management  
+Urusan database localhost ataupun live saya memakai [SequelPro](https://www.sequelpro.com/) atau [SQLYog](https://www.webyog.com/product/sqlyog)
 
 [Bitbucket](https://bitbucket.org/)  
 Untuk mengamankan kode, dan menyimpannya, saya pakai bitbucket. Github tentunya juga, tapi untuk private repo pakainya bitbucket.
