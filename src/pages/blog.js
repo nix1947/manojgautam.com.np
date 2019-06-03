@@ -84,7 +84,7 @@ export default class BlogPage extends Component {
                     await this.filterPosts()
                   }}
                 >
-                  {category.fieldValue} <strong className="count">{category.totalCount}</strong>
+                  {category.fieldValue}
                 </div>
               )
             })}
