@@ -396,7 +396,7 @@ $dark-border: darken($background, 3%);
   }
 
   ::selection {
-    background: lighten($light, 10%);
+    background: lighten(#5183F5, 10%);
     color: white;
   }
 }
