@@ -4,7 +4,7 @@ slug: tool
 template: page
 
 ---
-Seperti biasa, ini tool pilihan saya, kamu tidak harus pakai tool yang sama, ditulis karena sering ditanyakan atau saya ingin membantu mempromosikan sebagai terima kasih karena toolnya sudah membantu saya. Karena saya menggunakan Mac, ada banyak tool yang khusus untuk mac (duh).
+Seperti biasa, ini tool pilihan saya, kamu tidak harus pakai tool yang sama, ditulis karena sering ditanyakan atau saya ingin membantu mempromosikan sebagai terima kasih karena toolnya sudah membantu saya.
 
 ### **Personal**
 
