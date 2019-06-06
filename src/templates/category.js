@@ -14,7 +14,7 @@ export default class CategoryTemplate extends Component {
       <Layout>
         <Helmet title={`Posts in category "${category}" – ${config.siteTitle}`} />
         <div className="container">
-          <h1>{category}</h1>
+          <h1>Artikel dalam ketegori {category}</h1>
           <PostListing postEdges={postEdges} />
         </div>
       </Layout>
