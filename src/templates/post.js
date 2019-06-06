@@ -3,6 +3,8 @@ import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import Img from 'gatsby-image'
 import Layout from '../layout'
+import PostTags from '../components/PostTags'
+import kebabCase from 'lodash.kebabcase'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import { formatDate, editOnGithub } from '../utils/global'
@@ -43,10 +45,11 @@ export default class PostTemplate extends Component {
               <div className="post-meta">
                 <time className="date">{date}</time>
                 |
-                <a className="category-link" href={`/categories/${_.kebabCase(post.categories)}`}> {post.categories} </a>
+                <a className="category-link" href={`/categories/${kebabCase(post.categories)}`}> {post.categories} </a>
                 |
                 <a className="github-link" href={githubLink} target="_blank">Sunting Lewat Github ✏️</a>
               </div>
+              <PostTags tags={post.tags} />
             </div>
           </header>
           <div className="post" dangerouslySetInnerHTML={{ __html: postNode.html }} /><div>
