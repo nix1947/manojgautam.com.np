@@ -684,6 +684,11 @@ blockquote {
 
 .search {
   margin-bottom: 0;
+
+  &:active,
+  &:focus {
+    background: transparent;
+  }
 }
 
 .filter-count {
