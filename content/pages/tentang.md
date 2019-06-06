@@ -18,14 +18,7 @@ Selain bekerja, saya juga kerap berkegiatan alam terbuka dan sesekali menangkap 
 
 ## Sedang Menggunakan
 
-<<<<<<< HEAD
--   **Laptop:**  Acer Aspire E 14 (Intel® Core™ i3, Intel® HD Graphics 4400, 6 GB DDR3 Memory, dan 500 GB HDD)
--   **Hosting:**  [Netlify](https://netlify.com/),  [Puskomedia Indonesia](https://www.puskomedia.id/)
--   **Static Site Generator:**  [Gatsby](https://gatsbyjs.org/), [Hugo](https://gohugo.io/)
--   **Daftar tool yang saya pakai bisa di lihat [disini](/tool/)**
-=======
 * **Laptop:**  Acer Aspire E 14 (Intel® Core™ i3, Intel® HD Graphics 4400, 6 GB DDR3 Memory, dan 500 GB HDD)
 * **Hosting:**  [Netlify](https://netlify.com/),  [Puskomedia Indonesia](https://www.puskomedia.id/)
 * **Static Site Generator:**  [Gatsby](https://gatsbyjs.org/)
-* **Daftar tool yang saya pakai bisa di lihat** [**disini**](/tool)
->>>>>>> aba0733325b747ddc0e78e00da196ff680f17827
+* **Daftar tool yang saya pakai bisa di lihat** [**disini**](/tool/)
