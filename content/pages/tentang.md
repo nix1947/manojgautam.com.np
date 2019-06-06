@@ -21,4 +21,4 @@ Selain bekerja, saya juga kerap berkegiatan alam terbuka dan sesekali menangkap 
 -   **Laptop:**  Acer Aspire E 14 (Intel® Core™ i3, Intel® HD Graphics 4400, 6 GB DDR3 Memory, dan 500 GB HDD)
 -   **Hosting:**  [Netlify](https://netlify.com/),  [Puskomedia Indonesia](https://www.puskomedia.id/)
 -   **Static Site Generator:**  [Gatsby](https://gatsbyjs.org/), [Hugo](https://gohugo.io/)
--   **Daftar tool yang saya pakai bisa di lihat [disini](/tool)**
+-   **Daftar tool yang saya pakai bisa di lihat [disini](/tool/)**
