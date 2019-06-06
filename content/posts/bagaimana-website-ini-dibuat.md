@@ -1,6 +1,6 @@
 ---
 date: 2019-05-08T03:46:07+07:00
-title: Bagaimana Website ini dibuat
+title: Bagaimana Website Ini Dibuat
 template: post
 thumbnail: "../uploads/gatsby.png"
 slug: bagaimana-website-ini-dibuat
@@ -11,8 +11,6 @@ tags:
 - wordpress
 
 ---
-**Bagaimana Website ini dibuat**
-
 Website ini sebelumnya menggunakan WordPress, lalu bermigrasi ke Gatsby, framework open-source untuk membuat website statis. Sebenarnya ada banyak [framework untuk membuat website statis](https://www.staticgen.com/) seperti Jekyll, Hugo, Next, dan Hexo. Tapi disini saya memilih Gatsby dengan beberapa faktor:
 
 * No Page Reload – Tidak membutuhkan waktu lama untuk memuat sebuah halaman
