@@ -43,6 +43,8 @@ export default class PostTemplate extends Component {
               <div className="post-meta">
                 <time className="date">{date}</time>
                 |
+                <a className="category-link" href={`/categories/${_.kebabCase(post.categories)}`}> {post.categories} </a>
+                |
                 <a className="github-link" href={githubLink} target="_blank">Sunting Lewat Github ✏️</a>
               </div>
             </div>
