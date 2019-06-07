@@ -27,7 +27,6 @@ export default class Index extends Component {
           <section className="section">
             <h2>Artikel Terbaru</h2>
             <PostListing simple postEdges={latestPostEdges} />
-            <div className="load-more"><a href="/blog/">Lihat semua 👉</a></div>
           </section>
         </div>
       </Layout>
