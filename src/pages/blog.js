@@ -98,7 +98,7 @@ export default class BlogPage extends Component {
               placeholder="Ketik di sini untuk memfilter pos ..."
               onChange={this.handleChange}
             />
-            <div className="filter-count">{filterCount}</div>
+            {/* <div className="filter-count">{filterCount}</div> */}
           </div>
           <PostListing postEdges={filteredPosts} />
         </div>
