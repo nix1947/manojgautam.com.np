@@ -28,7 +28,7 @@ const config = {
     },
     {
       name: 'Tentang',
-      link: '/me/',
+      link: '/tentang/',
     },
     {
       name: 'Tool',
