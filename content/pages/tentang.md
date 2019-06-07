@@ -1,6 +1,6 @@
 ---
 title: Tentang
-slug: me
+slug: tentang
 template: page
 
 ---
