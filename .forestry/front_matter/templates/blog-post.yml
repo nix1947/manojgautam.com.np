@@ -12,10 +12,11 @@ fields:
 - type: text
   name: template
   label: template
+  default: post
 - name: thumbnail
-  type: text
+  type: file
   config:
-    required: false
+    maxSize: 250
   label: thumbnail
 - type: text
   name: slug
