@@ -27,4 +27,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/programmer-bahagia-tersiksa-atau-mati.md
 - content/posts/bagaimana-website-ini-dibuat.md
